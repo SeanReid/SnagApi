@@ -1,0 +1,13 @@
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.deps.json
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.json
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.dll
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.pdb
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cache
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.dll
+c:\users\sean\Source\Repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb
